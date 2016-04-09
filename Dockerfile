@@ -1,3 +1,3 @@
 FROM alpine:3.1
 
-RUN echo "Hello world from Docker!"
+CMD echo "Hello world from Docker!"
